@@ -11,3 +11,4 @@ CREATE TABLE `o2o_category` (
     KEY parent_id(`parent_id`)  
 )ENGINE=InnoDB auto_increment=1 DEFAULT CHARSET=utf8;
 
+#其他
