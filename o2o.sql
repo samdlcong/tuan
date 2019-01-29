@@ -25,3 +25,6 @@ CREATE TABLE `o2o_city` (
     KEY parent_id(`parent_id`),
     UNIQUE KEY uname(`uname`)
 )ENGINE=InnoDB auto_increment=1 DEFAULT CHARSET=utf8;
+
+
+#商品表
