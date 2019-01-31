@@ -27,4 +27,4 @@ CREATE TABLE `o2o_city` (
 )ENGINE=InnoDB auto_increment=1 DEFAULT CHARSET=utf8;
 
 
-#商品表
+#商品
